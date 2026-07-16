@@ -1,5 +1,7 @@
 # Klang Valley Ecommerce Optimization Analysis
-This is a repositories for Klang Valley e-Commerce Delivery Optimization Analysis. 
+This is a repository for Klang Valley e-Commerce Delivery Optimization Analysis. 
+
+
 📌 Business Problem & Context
 The Situation: [e.g., A regional e-commerce logistics provider in Malaysia faces increasing customer complaints regarding delayed shipments.]
 The Goal: [e.g., Identify specific logistical bottlenecks across different states, calculate the average delivery lag, and recommend actionable solutions to improve regional fulfillment speeds.]
