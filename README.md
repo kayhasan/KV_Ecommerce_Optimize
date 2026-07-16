@@ -29,6 +29,7 @@ Insight 2: Peak shopping periods (e.g., Ramadan e-commerce rushes) experience a 
 Recommendation 1: Reallocate 15% of the shipping volume to alternative tier-2 courier partners during high-volume festive seasons.<br>
 Recommendation 2: Establish a satellite micro-fulfillment center closer to high-demand clusters in the Klang Valley to reduce last-mile delays.<br>
 
-🔗 Project DeliverablesInteractive Dashboard: [Link to your Live Power BI / Tableau Public Dashboard]<br>
+🔗 Project Deliverables<br>
+Interactive Dashboard: [Link to your Live Power BI / Tableau Public Dashboard]<br>
 SQL Queries File: [Link to your script.sql in the repo]<br>
 Python Notebook: [Link to your notebook.ipynb in the repo]<br>
